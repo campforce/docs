@@ -1,7 +1,3 @@
-# Architecture
-
-The architecture of a software system is a metaphor, analogous to the architecture of a building. It functions as a blueprint for the system and the developing project, which project management can later use to extrapolate the tasks necessary to be executed by the teams and people involved. [[Source]](https://en.wikipedia.org/wiki/Software_architecture)
-
 ## Trigger Framework
 In our projects, we use [Trigger Framework](https://github.com/kevinohara80/sfdc-trigger-framework) for writing our triggers, because of [several reasons](https://trailhead.salesforce.com/content/learn/modules/success-cloud-coding-conventions/implement-frameworks-sc).
 This trigger framework bundles a single `TriggerHandler` base class that you can inherit from in all of your trigger handlers. The base class includes context-specific methods that are automatically called when a trigger is executed.
