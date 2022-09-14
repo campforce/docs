@@ -26,7 +26,7 @@ The architecture of a software system is a metaphor, analogous to the architectu
 - [Read About Architecture In This Projects](/architecture.md)
 
 # Workflow
-- [Read About Workflow On Projects](/architecture.md)
+- [Read About Workflow On Projects](/work-flow.md)
 
 # FAQ
 - [Common Questions Tend To Recur](/FAQ.md)
